@@ -2,7 +2,7 @@
 
 ## 🌱 About Me
 
-I'm a software engineer and maker with a B.S. in Computer Science from Cornell University. Currently a **YC W26 founder** building something new, and joining **Ramp** as a Software Engineer in August 2026.
+I'm a software engineer and maker with a B.S. in Computer Science from Cornell University. Currently a **YC W26 founder** building something new.
 
 I'm passionate about distributed systems, applied ML, and building things that solve real-world problems — from medical imaging research to autonomous underwater vehicles to web3 games.
 
